@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesCacioppo
 - 👀 I’m interested in espresso, woodworking, photography, DJing...
 - 🌱 I’m currently learning Go and Python
-- 💞️ I’m looking to collaborate on Ansible, Terraform, or Kubernetes operators
+- 💞️ I’m looking to collaborate on anything Python or some Kubernetes operators
 - 📫 Fee free to reach me at james.m.cacioppo@gmail.com
 
 <!---
