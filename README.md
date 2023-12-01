@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesCacioppo
 - 👀 I’m interested in espresso, woodworking, photography, DJing...
-- 🌱 I’m currently learning Go and Python
-- 💞️ I’m looking to collaborate on anything Python or some Kubernetes operators
+- 🌱 I’m currently learning... always learning.  Python, Kubernetes, how to herd cats, etc.
+- 💞️ Visit my page with useful docs and blogs at https://jamescacioppo.github.io
 - 📫 Fee free to reach me at james.m.cacioppo@gmail.com
 
 <!---
